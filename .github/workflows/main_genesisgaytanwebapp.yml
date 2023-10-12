@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'genesisgaytanWebApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CCC3765D54E24B9D8A525FB777B39662 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_52EA017A2B75490585D5B06ED2DEF6D6 }}
           package: .
